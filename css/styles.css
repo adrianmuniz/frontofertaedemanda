@@ -1,0 +1,34 @@
+
+.oferta_demanda{
+    color: #fff;
+    text-align: center;
+}
+
+
+.tela-login {
+    width:300px;
+     position: absolute;
+     top:40%;
+     left:50%;
+     transform:translate(-50%, -50%);
+}
+
+body{
+    background-color: #26de81;
+}
+
+.borda{
+    border: solid 1px #26de81 ;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;  
+}
+
+.barra{
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    height: 34px;
+    width: 250px;
+    margin-left: -5px;
+    outline: 0;
+}
